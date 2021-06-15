@@ -1,0 +1,7 @@
+name: go_shell
+port: 3419
+server:
+  ip: 127.0.0.1
+  port: 22
+  user: root
+  pwd: root
